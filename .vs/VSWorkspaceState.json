@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\img",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\components\\components",
+    "\\src\\components\\menu",
+    "\\src\\components\\pages"
+  ],
+  "SelectedNode": "\\src\\components\\pages\\wallet.js",
+  "PreviewInSolutionExplorer": false
+}
